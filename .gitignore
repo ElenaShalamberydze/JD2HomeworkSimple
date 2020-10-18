@@ -1,7 +1,16 @@
-# Compiled class file
+# Eclipse Specified
+.classpath
+.project
+.settings/
+.metadata/
+META-INF/
+lib/
+Servers/
+
+# Compiled class files
 *.class
 
-# Log file
+# Log files
 *.log
 
 # BlueJ files
